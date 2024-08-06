@@ -1,5 +1,6 @@
 # HTML-CSS
-<h1><strong>1st level headline</strong></h1> _____ [main title. <code>&lt;strong&gt;</code> is an element that represents strong importance/urgency]
+
+<h1><strong>NOTES</strong></h1> _____ [main title. <code>&lt;strong&gt;</code> is an element that represents strong importance/urgency]
 <h2><em>2nd level headline</em></h2> _____ [Subtitle usually smaller and maybe longer.<code>&lt;em&gt;</code> adds emphasis]
 <h3><i>3rd level headline</i></h3> _____ [smaller kicker headlines and labels.<code>&lt;i&gt;</code> applies visual italics]
 <h4><b>4th level headline</b></h4> _____ [the <code>&lt;b&gt;</code> is more generic/neutral]
@@ -29,7 +30,7 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 To attribute a quote we use {<em>cite</em>}
 To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
 
-<H3>Example</H3>
+-    <H3>Example</H3>
 
 <blockquote>
   <p>We've gone from having 21 elements in HTML tags, that first document,
@@ -48,7 +49,7 @@ To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
 We can include any element we want within the blockquote. The important thing is that
 elements should be nested within each other in a way that makes sense. 
 
-<h4>Example</h4>
+-    <h4>Example</h4>
 
 <p>Jeremy Keith said <q> You could open an HTML document from back then in a browser today</q></p> 
 <p lang="Fr">Keith said <q> You could open an HTML document from back then in a browser today</q></p> 

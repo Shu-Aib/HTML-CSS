@@ -121,3 +121,9 @@ li {
 </pre>
 
 <h2>HTML Superscripts,Subscripts and Small Text</h2>
+
+Subscripts, superscripts, and small text can be used where you need to mark up certain bits of content as having a different meaning than the rest.Subscripts are characters that are set below the normal baseline for text
+<h4>Example</h4>
+<p>H<sub>2</sub>O</p>
+<p>Something that has a footnote.<sup>2</sup></p>
+<small>©'2019 Fancy Company</small>

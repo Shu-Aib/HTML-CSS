@@ -126,4 +126,9 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
 <h4>Example</h4>
 <p>H<sub>2</sub>O</p>
 <p>Something that has a footnote.<sup>2</sup></p>
-<small>©'2019 Fancy Company</small>
+<small>© 2019 Fancy Company</small>
+
+<p>Subscript<sub>2</sub><br>
+   Superscript<sup>2</sup><br>
+   <small>SMALL TEXT</small><br>
+</p>

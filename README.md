@@ -24,3 +24,7 @@ HTML Lists
 {dl} tag, represents definition lists
 The tags are simply placed side by side simply because thats how a definition list is structured
 In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.
+
+<h2>HTML QUOTES</h2>
+To attribute a quote we use {<em>cite</em>}
+To distinguish a quote from the surrounding text we use{<i>blockquote</i>}

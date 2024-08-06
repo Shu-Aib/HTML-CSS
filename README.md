@@ -135,7 +135,7 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
 
 <h1>HTML Attributes</h1>
 <h2>class attribute</h2>
-<code>&lt;<p class="intro"&gt;>-This is the introduction</p></code>3
+<p class="intro">-This is the introduction</p>
 
 <h2>ID Attribute</h2>
-<code>&lt;<p class="intro"&gt; id="article intro">-This is the introduction</p></code>
+<p class="intro" id="article intro">-This is the introduction</p></code>

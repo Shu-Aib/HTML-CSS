@@ -43,4 +43,12 @@ To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
     You'd probably have to run some emulation just to get the thing open.
     And yet you could open an HTML document from back then in browser today.</p>
 <cite>Jeremy Keith</cite>
-  </blockquote>
+</blockquote>
+
+We can include any element we want within the blockquote. The important thing is that
+elements should be nested within each other in a way that makes sense. 
+
+<h4>Example</h4>
+
+<p>Jeremy Keith said <q> You could open an HTML documen from back then in a browser today</q></p> 
+<p lang="Fr"> Keith said <q> You could open an HTML documen from back then in a browser today</q></p> 

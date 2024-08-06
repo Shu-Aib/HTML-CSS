@@ -1,6 +1,6 @@
 # HTML-CSS
 <h1><strong>1st level headline</strong></h1> _____ [main title. <code>&lt;strong&gt;</code> is an element that represents strong importance/urgency]
-<h2><em>2nd level headline</em></h2> _____ [Subtitle usually smaller and maybe longer.{em} adds emphasis]
+<h2><em>2nd level headline</em></h2> _____ [Subtitle usually smaller and maybe longer.<code>&lt;emgt;</code> adds emphasis]
 <h3><i>3rd level headline</i></h3> _____ [smaller kicker headlines and labels.{i} applies visual italics]
 <h4><b>4th level headline</b></h4> _____ [the {b} is more generic/neutral]
 <p>this is a paragraph</p>

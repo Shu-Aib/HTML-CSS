@@ -98,3 +98,5 @@ far
 and
 wee
 </pre>
+
+Using <code>&lt;pre&gt;</code> allows spacing to be an integral part of the contents meaning

@@ -84,17 +84,17 @@ their ignorance?<br>
 
 <h4>Using <code>&lt;pre&gt;</code> element</h4>
 
--    <h5>example without <code>&lt;pre&gt;</code> element</h5>
+-    <h5>example of <code>&lt;pre&gt;</code> element</h5>
 <h1>[in Just-]</h1>
 <p>by e.e.cummings</p>
+<pre>
 it's
 spring
 and
-
-    the
-
-        goat-foot
-balloonMan    whistles
+   the
+      goat-foot
+balloonMan     whistles
 far
 and
 wee
+</pre>

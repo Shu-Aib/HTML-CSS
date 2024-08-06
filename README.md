@@ -31,7 +31,7 @@ To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
 
 <H3>Example</H3>
 
-<Blockquote>
+<blockquote>
   <p>We've gone from having 21 elements in HTML tags, that first document,
     to having 100 more elemens now, and yet its still the same language. i find it amazing.
     It's still the same language that was created 25 years ago. It has grown an extra 100 elementsin there,
@@ -42,6 +42,5 @@ To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
     Tim Berners-Lee was creating the World Wide Web project, good luck.
     You'd probably have to run some emulation just to get the thing open.
     And yet you could open an HTML document from back then in browser today.</p>
-
 <cite>Jeremy Keith</cite>
-  </Blockquote>
+  </blockquote>

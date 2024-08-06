@@ -1,18 +1,18 @@
 # HTML-CSS
 <h1><strong>1st level headline</strong></h1> _____ [main title. <code>&lt;strong&gt;</code> is an element that represents strong importance/urgency]
-<h2><em>2nd level headline</em></h2> _____ [Subtitle usually smaller and maybe longer.<code>&lt;emgt;</code> adds emphasis]
-<h3><i>3rd level headline</i></h3> _____ [smaller kicker headlines and labels.{i} applies visual italics]
-<h4><b>4th level headline</b></h4> _____ [the {b} is more generic/neutral]
+<h2><em>2nd level headline</em></h2> _____ [Subtitle usually smaller and maybe longer.<code>&lt;em&gt;</code> adds emphasis]
+<h3><i>3rd level headline</i></h3> _____ [smaller kicker headlines and labels.<code>&lt;i&gt;</code> applies visual italics]
+<h4><b>4th level headline</b></h4> _____ [the <code>&lt;b&gt;</code>} is more generic/neutral]
 <p>this is a paragraph</p>
 HTML Lists
 <ul>
-    <li>flour</li> _____ [an {li} is an element, which represents a list of items]
+    <li>flour</li> _____ [an <code>&lt;li&gt;</code> is an element, which represents a list of items]
     <li>suger</li>
     <li>baking powder</li>
     <li>salt</li>
 </ul>
 
-[after using {ul} for the list  of items we use {ol}(ordered list) to keep the items in a specific order]
+[after using <code>&lt;ul&gt;</code> for the list  of items we use {ol}(ordered list) to keep the items in a specific order]
 
 <ol>
     <li>in a bowl, mix all the dry ingredients</li>

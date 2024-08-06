@@ -119,3 +119,5 @@ li {
 }
 </code> 
 </pre>
+
+<h2>HTML Superscripts,Subscripts and Small Text</h2>

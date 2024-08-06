@@ -36,7 +36,6 @@ To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
     to having 100 more elemens now, and yet its still the same language. i find it amazing.
     It's still the same language that was created 25 years ago. It has grown an extra 100 elementsin there,
     and yet it's still the same language.
-
     if you're familiar at all with computer formats, this is very surprising.
     if you tried to open a Word processing document from the same time when 
     Tim Berners-Lee was creating the World Wide Web project, good luck.

@@ -34,10 +34,12 @@ To distinguish a quote from the surrounding text we use {<i>blockquote</i>}
 <Blockquote>
     We've gone from having 21 elements in HTML tags, that first document,
     to having 100 more elemens now, and yet its still the same language. i find it amazing.
-    It's still the same language that was created 25 years ago. It has grown an extra 100 elementsin there, and yet it's still the same language.
+    It's still the same language that was created 25 years ago. It has grown an extra 100 elementsin there,
+    and yet it's still the same language.
 
     if you're familiar at all with computer formats, this is very surprising.
-    if you tried to open a Word processing document from the same time when Tim Berners-Lee was creating the World Wide Web project, good luck.
+    if you tried to open a Word processing document from the same time when 
+    Tim Berners-Lee was creating the World Wide Web project, good luck.
     You'd probably have to run some emulation just to get the thing open.
     And yet you could open an HTML document from back then in browser today.
 

@@ -126,9 +126,16 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
 <h4>Example</h4>
 <p>H<sub>2</sub>O</p>
 <p>Something that has a footnote.<sup>2</sup></p>
-<small>© 2019 Fancy Company</small>
+<small>© 2019 Fancy Company</small><br>
 
 <p>Subscript<sub>2</sub><br>
    Superscript<sup>2</sup><br>
-   <small>SMALL TEXT</small><br>
+   <small>small text</small><br>
 </p>
+
+<h1>HTML Attributes</h1>
+<h2>class attribute</h2>
+<code>&lt;<p class="intro"&gt;>-This is the introduction</p></code>3
+
+<h2>ID Attribute</h2>
+<code>&lt;<p class="intro"&gt; id="article intro">-This is the introduction</p></code>

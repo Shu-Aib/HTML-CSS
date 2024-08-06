@@ -100,3 +100,22 @@ wee
 </pre>
 
 Using <code>&lt;pre&gt;</code> allows spacing to be an integral part of the contents meaning
+
+Using <code>&lt;pre&gt;</code> and <code>&lt;code&gt;</code> together
+<pre>
+<code>
+&lt;ul&gt;
+    &lt;li&gt;flour&lt;li&gt;
+    &lt;li&gt;sugar&lt;li&gt;
+    &lt;li&gt;salt&lt;li&gt;
+&lt;/ul&gt;
+
+
+ul  {
+    colour: teal;
+}
+li {
+    list-style-typ: square;
+}
+</code> 
+</pre>

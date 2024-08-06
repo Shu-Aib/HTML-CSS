@@ -53,8 +53,8 @@ elements should be nested within each other in a way that makes sense.
 <p>Jeremy Keith said <q> You could open an HTML document from back then in a browser today</q></p> 
 <p lang="Fr">Keith said <q> You could open an HTML document from back then in a browser today</q></p> 
 
-<h4>Using Br element</h4>
-<h5>example</h5>
+<h4>Using <code>&lt;br&gt;</code> element</h4>
+-    <h5>example</h5>
 
 <b>
 They
@@ -68,7 +68,8 @@ before I annihalate
 their ignorance?
 </b>
 
-<h4>using <code>&lt;br&gt;</code></h4>
+-    <h4>using <code>&lt;br&gt;</code></h4>
+
 They<br>
 say you took my manhood,<br>
 momma<br>

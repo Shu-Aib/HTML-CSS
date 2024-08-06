@@ -28,7 +28,7 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>
-To distinguish a quote from the surrounding text we use <code>&lt<i>blockquote</i>&gt;</code>}
+To distinguish a quote from the surrounding text we use <code>&lt<i>blockquote</i>&gt;</code>
 
 -    <H3>Example</H3>
 
@@ -81,3 +81,20 @@ what do you want me to say<br>
 to them, just <br>
 before I annihalate<br>
 their ignorance?<br>
+
+<h4>Using <code>&lt;pre&gt;</code> element</h4>
+
+-    <h5>example without <code>&lt;pre&gt;</code> element</h5>
+<h1>[in Just-]</h1>
+<p>by e.e.cummings</p>
+it's
+spring
+and
+
+    the
+
+        goat-foot
+balloonMan    whistles
+far
+and
+wee

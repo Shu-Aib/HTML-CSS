@@ -198,12 +198,13 @@ Width and Height determines the size of the image
 <head>
 <style>
 *--------------*
-html  {
+html{
 Font-Family: Lora, Geogia, Seriff
 Margin:2em
 Font-size:!70%
 Line-Height:1.5;
-
+}
+    
 <img src="https//s3-us-west-2.amazonaws.com/s.cdpn.io/10558/maggie.jpg"
 <alt="shiny black dog looking pensive" width="400" height="300"
 </style>

@@ -143,3 +143,27 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
 
 <h2>ID Attribute</h2>
 <p class="intro" id="article intro">-This is the introduction</p></code>
+
+<h1>Aria roles</h1>
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+    </head>
+    <body>
+    <h1 aria-label="Hello World">
+        <div class="grid" aria-hidden="true">
+        <span>H</span>
+        <span>E</span>
+        <span>L</span>
+        <span>L</span>
+        <span>O</span>
+        
+        <span>W</span>
+        <span>O</span>
+        <span>R</span>
+        <span>L</span>
+        <span>D</span>
+    </div>
+</h1>

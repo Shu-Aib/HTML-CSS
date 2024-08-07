@@ -132,7 +132,11 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
    Superscript<sup>2</sup><br>
    <small>small text</small><br>
 </p>
-
+<style>
+    .intro{
+        color:blue;
+    }
+</style>
 <h1>HTML Attributes</h1>
 <h2>class attribute</h2>
 <p class="intro">-This is the introduction</p>

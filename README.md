@@ -29,6 +29,10 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>
 To distinguish a quote from the surrounding text we use <code>&lt<i>blockquote</i>&gt;</code>
+HTML Links: Links are created using the A element with an href attribute that specifies the URL.
+Absolute URLs: These include the full URL, starting with HTTP or HTTPS, which stands for Hypertext Transport Protocol and Hypertext Transport Protocol Secure, respectively1.
+Linking Elements: Links can be wrapped around text, images, or more complex elements like teaser cards2.
+Security: Modern browsers automatically add HTTPS for security, but developers need to include it in their code.
 
 -    <H3>Example</H3>
 
@@ -172,3 +176,42 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
 <div class="grid" aria=hidden"true>"
 </body>
 </html>
+    
+HTML Links: Links are created using the A element with an href attribute that specifies the URL.
+Absolute URLs: These include the full URL, starting with HTTP or HTTPS, which stands for Hypertext Transport Protocol and Hypertext Transport Protocol Secure, respectively1.
+Linking Elements: Links can be wrapped around text, images, or more complex elements like teaser cards2.
+Security: Modern browsers automatically add HTTPS for security, but developers need to include it in their code.
+Relative URLs: Useful for linking within the same site, allowing flexibility when moving between servers.
+Absolute URLs: Include the full domain name, useful for linking to external sites.
+File Structure: Understanding how files are organized is crucial for creating effective URLs.
+Clean URLs: Using folders and index.html files can create user-friendly and well-structured URLs1.
+logical URL paths.
+Leverage Index Files: Use index.html files in folders to create clean URLs (e.g., /people instead of /people.html)2.
+Avoid Absolute URLs: Absolute URLs can cause issues when moving the site between different servers.
+
+the SRC tells the browser which image to use
+the Alt attribute provides a text description of the image
+Width and Height determines the size of the image
+<!doctype html>
+
+<html>
+<head>
+<style>
+*--------------*
+html  {
+Font-Family: Lora, Geogia, Seriff
+Margin:2em
+Font-size:!70%
+Line-Height:1.5;
+
+<img src="https//s3-us-west-2.amazonaws.com/s.cdpn.io/10558/maggie.jpg"
+<alt="shiny black dog looking pensive" width="400" height="300"
+</style>
+</head>
+<body>
+
+<h2>Adding an image</h2>
+<img src="img.jpg" alt="brown dog" width="400" height="300"
+
+</body>
+<html></html>

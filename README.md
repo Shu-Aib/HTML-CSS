@@ -229,7 +229,7 @@ Line-Height:1.5;
     <style>
         .inputA{ width:30%;
         }
-        .inputB{ width:30%;
+        .inputB{ width:30%
         }
     </style>
 </head>
@@ -244,9 +244,7 @@ Line-Height:1.5;
             <input class="inputA">
             <button>Sign Up</button>
         </form>
-    </section>
-
-    <section class='Version B'>
+    <class='Version B'>
         <h2>Version B</h2>
         <form action='success html' method='get'>
             <label>Name</label>

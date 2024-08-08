@@ -217,13 +217,15 @@ Line-Height:1.5;
 </body>
 <html></html>
 
-<h1>WORKING WITH FORMS</h1>
+<h3><i>WORKING WITH FORMS</i></h3>
 
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
     <style>
         .inputA{ width:30%;
         }

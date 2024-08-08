@@ -226,11 +226,8 @@ Line-Height:1.5;
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        .inputA{ width:30%;
-        }
-        .inputB{ width:30%
-        }
+    <style>    
+    form input{width:30%}
     </style>
 </head>
 
@@ -241,10 +238,10 @@ Line-Height:1.5;
             <label>Name</label>
             <input>
             <label>Email</label>
-            <input class="inputA">
+            <input>
             <button>Sign Up</button>
         </form>
-    <class='Version B'>
+    <section class='Version B'>
         <h2>Version B</h2>
         <form action='success html' method='get'>
             <label>Name</label>
@@ -254,7 +251,6 @@ Line-Height:1.5;
             <button>Sign Up</button>
         </form>
     </section>
-
     <section class='Version C'>
         <h2>Version C</h2>
         <form action="success html" method="get">
@@ -265,7 +261,6 @@ Line-Height:1.5;
             <button>Sign Up</button>
         </form>
     </section>
-
     <section class="version D">
         <h2>Version D</h2>
         <form action="success html" method="get">

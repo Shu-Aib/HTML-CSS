@@ -216,3 +216,70 @@ Line-Height:1.5;
 
 </body>
 <html></html>
+
+<h1>WORKING WITH FORMS</h1>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .inputA{ width:30%;
+        }
+        .inputB{ width:30%;
+        }
+    </style>
+</head>
+
+<body>
+    <section class='version-A'>
+        <h2>Version A</h2>
+        <form>
+            <label>Name</label>
+            <input>
+            <label>Email</label>
+            <input class="inputA">
+            <button>Sign Up</button>
+        </form>
+    </section>
+
+    <section class='Version B'>
+        <h2>Version B</h2>
+        <form action='success html' method='get'>
+            <label>Name</label>
+            <input>
+            <label>Email</label>
+            <input>
+            <button>Sign Up</button>
+        </form>
+    </section>
+
+    <section class='Version C'>
+        <h2>Version C</h2>
+        <form action="success html" method="get">
+            <label>Name</label>
+            <input name="Name">
+            <label>Email</label>
+            <input name="Email">
+            <button>Sign Up</button>
+        </form>
+    </section>
+
+    <section class="version D">
+        <h2>Version D</h2>
+        <form action="success html" method="get">
+            <label for="name">Name</label>
+            <input name="name" id="name">
+            <label for="email">Email</label>
+            <input name="Email" id="email">
+            <button>Sign Up</button>
+        </form>
+    </section>
+
+
+</body>
+
+</html>

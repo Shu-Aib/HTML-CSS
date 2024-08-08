@@ -162,8 +162,7 @@ Subscripts, superscripts, and small text can be used where you need to mark up c
         <span>E</span>
         <span>L</span>
         <span>L</span>
-        <span>O</span>
-        
+        <span>O</span>        
         <span>W</span>
         <span>O</span>
         <span>R</span>
@@ -217,7 +216,7 @@ Line-Height:1.5;
 </body>
 <html></html>
 
-<h3><i>WORKING WITH FORMS</i></h3>
+<header><h3><i>WORKING WITH FORMS</i></h3></header>
 
 <!DOCTYPE html>
 <html lang="en">

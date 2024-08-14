@@ -38,8 +38,8 @@ Security: Modern browsers automatically add HTTPS for security, but developers n
 
 <blockquote>
   <p>We've gone from having 21 elements in HTML tags, that first document,
-    to having 100 more elemens now, and yet its still the same language. i find it amazing.
-    It's still the same language that was created 25 years ago. It has grown an extra 100 elementsin there,
+    to having 100 more elements now, and yet its still the same language. i find it amazing.
+    It's still the same language that was created 25 years ago. It has grown an extra 100 elements in there,
     and yet it's still the same language.</p>
     
  <p>if you're familiar at all with computer formats, this is very surprising.

@@ -76,8 +76,10 @@ element has its own Attributes and usage guidelines</i></h2><br>
 -    -<code>&lt;img&gt;</code><br>
 -    -<code>&lt;ul&gt;</code><br>
 -    -<code>&lt;table&gt</code><br>
+</pre>
 
 <h2>HTML Tags</h2>
+<pre>
 ‣ The actual markup used to define an element.<br>
 ‣ Consists of angle brackets(<code>&lt;</code> and <code>&gt;</code>) surrounding the element name.<br>
 ‣ Come in pairs:<br>
@@ -88,6 +90,7 @@ Examples:<br>
 -    -<code>&lt;/p&gt;</code><br>
 -    -<code>&lt;img src="image.jpg"&gt;</code><br>
 </pre>
+
 <h2>Key Differences</h2>
 ‣ Elements represents the structure, while tags are the markup.<br>
 ‣ Elements have content, attributes, and child elements, while tags surround the content.<br>
@@ -153,7 +156,7 @@ You can apply CSS in 3 ways:
 <code>&lt;p style="color: red;"&gt;This is a red paragraph.&lt;/p&gt;
 </pre>
 
-‣ <strong>Internal CSS:</strong> Inside a <code>&lt;style&gt;</code> tag in the HTML <code>&lt;head&gt;</code>.
+‣ <strong>Internal CSS:</strong> Inside a <code>&lt;style&gt;</code> tag in the HTML <code>&lt;head&gt;</code>.<br>
 <pre>
 <code>&lt;head&gt;
     &lt;style&gt;

@@ -155,36 +155,36 @@ You can apply CSS in 3 ways:
 
 ‣ <strong>Internal CSS:</strong> Inside a <code>&lt;style&gt;</code> tag in the HTML <code>&lt;head&gt;</code>.
 <pre>
-<head>
-    <style>
+<code>&lt;head&gt;
+    &lt;style&gt;
         p {
             color: red;
         }
-    </style>
-</head>
+    &lt;/style&gt;
+&lt;/head&gt;</code>
 </pre>
 
 ‣ <strong>External CSS:<strong> In a seperate .css file linked to HTML<br>
 <pre>
-<head>                                                                
-    <link rel="stylesheet" type="text/css" href="styles.css">         
-</head>                                                               
+<code>&lt;head&gt;                                                                
+    &lt;link rel="stylesheet" type="text/css" href="styles.css"&gt;         
+&lt;/head&gt;                                                               
 </pre>
 
 <h2>EXAMPLE</h2>
 Here’s a simple example that combines these concepts:
 <pre>
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-    <h1 class="header">Hello, World!</h1>
-    <p id="intro">Welcome to CSS basics.</p>
-</body>
-</html>
-</pre>
+<code>&lt;!DOCTYPE html&gt;
+&lt;html7&gt;
+&lt;head&gt;
+    &lt;link rel="stylesheet" type="text/css" href="styles.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1 class="header"&gt;Hello, World!&lt;/h1&gt;
+    &lt;p id="intro"&gt;Welcome to CSS basics.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/pre&gt;</code>
 
 And the styles.css file:
 <pre>

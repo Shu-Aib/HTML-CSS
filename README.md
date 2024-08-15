@@ -64,6 +64,22 @@
 <h2><i>These are just some of the many HTML elements available. Each
 element has its own Attributes and usage guidelines</i></h2><br>
 
+<h2><i>HTML Elements and tags are often used interchangeably, but theres a subtle difference</i></h2><br>
+
+<h2>Html Elements</h2><br>
+‣ Represents a structure or a component on a webpage.<br>
+‣ Consists of a start tag, content, and an end tag.<br>
+‣ Define the meaning and purpose of the content.<br>
+‣ Can have attributes, child elements, and text content.<br>
+‣ Examples:<br>
+    - <code>&lt;p&gt;</code><br>
+    -<code>&lt;img&gt;</code><br>
+    -<code>&lt;ul&gt;</code><br>
+    -<code>&lt;table&gt></code><br>
+
+
+
+
 
 
 

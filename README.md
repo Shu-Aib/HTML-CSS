@@ -150,7 +150,7 @@ h1 {
 You can apply CSS in 3 ways:
 ‣ <strong>Inline CSS:</strong> Directly in the HTML Element. <br>
 <pre>
-<p style="color: red;">This is a red paragraph.</p>
+<code>&lt;p style="color: red;"&gt;This is a red paragraph.&lt;/p&gt;
 </pre>
 
 ‣ <strong>Internal CSS:</strong> Inside a <code>&lt;style&gt;</code> tag in the HTML <code>&lt;head&gt;</code>.
@@ -185,6 +185,7 @@ Here’s a simple example that combines these concepts:
 &lt;/body&gt;
 &lt;/html&gt;
 &lt;/pre&gt;</code>
+</pre>
 
 And the styles.css file:
 <pre>

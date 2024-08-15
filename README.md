@@ -28,17 +28,17 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 
 <h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1>
 
-<h2>Structural quotes</h2>
-<Code>&lt;html&gt;</code> - Root element
-<code>&lt;head&gt;</code> - Contains metadata about the document
-<code>&lt;title&gt;</code> - Sets the title of the page
-<code>&lt;body&gt;</code> - Contains the content of the page
+<h2>Structural quotes</h2><br>
+<Code>&lt;html&gt;</code> - Root element<br>
+<code>&lt;head&gt;</code> - Contains metadata about the document<br>
+<code>&lt;title&gt;</code> - Sets the title of the page<br>
+<code>&lt;body&gt;</code> - Contains the content of the page<br>
 
-<h2>Headings</h2>
-<code>&lt;h1&gt;</code> - Main heading
-<code>&lt;h2&gt;</code> - Subheading
-<code>&lt;h3&gt;</code> - Sub-Subheading
-<code>&lt;h4&gt;</code> - <code>&lt;h5&gt;</code> - <code>&lt;h6&gt;</code> - Additional Subheadings 
+<h2>Headings</h2><br>
+<code>&lt;h1&gt;</code> - Main heading<br>
+<code>&lt;h2&gt;</code> - Subheading<br>
+<code>&lt;h3&gt;</code> - Sub-Subheading<br>
+<code>&lt;h4&gt;</code> - <code>&lt;h5&gt;</code> - <code>&lt;h6&gt;</code> - Additional Subheadings<br> 
 
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>

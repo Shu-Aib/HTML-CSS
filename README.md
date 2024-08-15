@@ -26,11 +26,20 @@ HTML Lists
 The tags are simply placed side by side simply because thats how a definition list is structured
 In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.
 
-HTML  (Hyper text Markup Language) elements are the building blocks of web pages.
+<h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1>
 
-<h1>Structural quotes</h1>
+<h2>Structural quotes</h2>
 <Code>&lt;html&gt;</code> - Root element
-    
+<code>&lt;head&gt;</code> - Contains metadata about the document
+<code>&lt;title&gt;</code> - Sets the title of the page
+<code>&lt;body&gt;</code> - Contains the content of the page
+
+<h2>Headings</h2>
+<code>&lt;h1&gt;</code> - Main heading
+<code>&lt;h2&gt;</code> - Subheading
+<code>&lt;h3&gt;</code> - Sub-Subheading
+<code>&lt;h4&gt;</code> - <code>&lt;h5&gt;</code> - <code>&lt;h6&gt;</code> - Additional Subheadings 
+
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>
 To distinguish a quote from the surrounding text we use <code>&lt<i>blockquote</i>&gt;</code>

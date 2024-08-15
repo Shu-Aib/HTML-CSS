@@ -107,6 +107,42 @@ While the terms are often used interchangeably, understanding the distinction he
 clarify the role of each in building web pages.<br>
 
 
+<h1>Basic Syntax</h1>
+<h2>css is made up of <i><strong>selectors</strong></i> and <i><strong>declarations</strong></i>.</h2><br>
+Heres an example:
+p {
+    color: red;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>HTML Lists</h2>
 <ul>
     <li>flour</li> _____ [an <code>&lt;li&gt;</code> is an element, which represents a list of items]

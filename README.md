@@ -1,10 +1,8 @@
 # HTML-CSS
 
-<h1><strong>NOTES</strong></h1> _____ [main title. <code>&lt;strong&gt;</code> is an element that represents strong importance/urgency]
-<h2><em>2nd level headline</em></h2> _____ [Subtitle usually smaller and maybe longer.<code>&lt;em&gt;</code> adds emphasis]
-<h3><i>3rd level headline</i></h3> _____ [smaller kicker headlines and labels.<code>&lt;i&gt;</code> applies visual italics]
-<h4><b>4th level headline</b></h4> _____ [the <code>&lt;b&gt;</code> is more generic/neutral]
-<p>this is a paragraph</p>
+<h1><strong>NOTES</strong></h1>
+
+
 HTML Lists
 <ul>
     <li>flour</li> _____ [an <code>&lt;li&gt;</code> is an element, which represents a list of items]
@@ -24,9 +22,14 @@ HTML Lists
 <code>&lt;dd&gt;</code> tag, stands for definition description<br>
 <code>&lt;dl&gt;</code> tag, represents definition lists<br>
 The tags are simply placed side by side simply because thats how a definition list is structured
-In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.
+In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.<br>
 
-<h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1>
+
+
+
+
+
+<h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1><br>
 
 <h2>Structural quotes</h2><br>
 <Code>&lt;html&gt;</code> - Root element<br>

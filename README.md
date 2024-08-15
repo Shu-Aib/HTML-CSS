@@ -40,6 +40,45 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 <code>&lt;h3&gt;</code> - Sub-Subheading<br>
 <code>&lt;h4&gt;</code> - <code>&lt;h5&gt;</code> - <code>&lt;h6&gt;</code> - Additional Subheadings<br> 
 
+<h2>Text Elements</h2><br>
+<code>&lt;p&gt;</code> - Paragraph<br>
+<code>&lt;span&gt;</code> - Inline Text Container<br>
+<code>&lt;div&gt;</code> - Block Level Container<br>
+<code>&lt;strong&gt;</code> - Bold Text<br>
+<code>&lt;em&gt;</code> - Emphasized Text<br>
+<code>&lt;u&gt;</code> - Underline Text<br>
+
+<h2>Links</h2><br>
+<code>&lt;a&gt;</code> - Hyperlink<br>
+
+<h2>Images</h2><br>
+<code>&lt;img&gt;</code> - Image Element<br>
+
+<h2>Lists</h2><br>
+<code>&lt;ul&gt;</code> - Unordered Lists<br>
+<code>&lt;ol&gt;</code> - Ordered Lists<br>
+<code>&lt;li&gt;</code> - List Item<br>
+
+<h2>Tables</h2><br>
+<code>&lt;table&gt;</code> - Table Element<br>
+<code>&lt;tr&gt;</code> - Table Row<br>
+<code>&lt;td&gt;</code> - Table Data Cell<br>
+<code>&lt;th&gt;</code> - Table Header Cell<br>
+
+<h2>Forms</h2><br>
+<code>&lt;forms&gt;</code> - Form Element<br>
+<code>&lt;input&gt;</code> - Input Field<br>
+<code>&lt;textarea&gt;</code> - Text Area<br>
+<code>&lt;select&gt;</code> - Dropdown Menu<br>
+<code>&lt;button&gt;</code> - Button<br>
+
+
+
+
+
+
+
+                  
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>
 To distinguish a quote from the surrounding text we use <code>&lt<i>blockquote</i>&gt;</code>

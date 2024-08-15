@@ -124,17 +124,83 @@ p {
     ‣ font-size: 20px; (This sets the font size to 20 pixels) <br> 
 </pre>
 
+<h1>Common Selectors</h1>
+‣ <strong>Element Selector:</strong> Targets all elements of a specific type.<br>
+<pre>
+h1 {
+    color: blue;
+}
+</pre>
 
+‣ <strong>Class Selector:</strong> Targets elements with a specific class attribute.<br>
+<pre>
+.myClass {
+    background-color: yellow;
+}
+</pre>
 
+‣ <strong>ID Selector:</strong> Targets a single element with a specific ID attribute.<br>
+<pre>
+#myId {
+    border: 1px solid black;
+}
+</pre>
 
+<h1>Applying CSS</h1>
+You can apply CSS in 3 ways:
+‣ <strong>Inline CSS:</strong> Directly in the HTML Element. <br>
+<pre>
+<p style="color: red;">This is a red paragraph.</p>
+</pre>
 
+‣ <strong>Internal CSS:</strong> Inside a <code>&lt;style&gt;</code> tag in the HTML <code>&lt;head&gt;</code>.
+<pre>
+<head>
+    <style>
+        p {
+            color: red;
+        }
+    </style>
+</head>
+</pre>
 
+‣ <strong>External CSS:<strong> In a seperate .css file linked to HTML<br>
+<pre>
+<head>                                                                
+    <link rel="stylesheet" type="text/css" href="styles.css">         
+</head>                                                               
+</pre>
 
+<h2>EXAMPLE</h2>
+Here’s a simple example that combines these concepts:
+<pre>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1 class="header">Hello, World!</h1>
+    <p id="intro">Welcome to CSS basics.</p>
+</body>
+</html>
+</pre>
 
+And the styles.css file:
+<pre>
+.header {
+    color: blue;
+    text-align: center;
+}
 
+#intro {
+    color: green;
+    font-size: 18px;
+}
+</pre>
 
-
-
+This example sets the color of the header to blue and centers it, <br>
+while the paragraph with the ID intro is styled with green text and a font size of 18px.<br>
 
 
 

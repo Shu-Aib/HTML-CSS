@@ -72,6 +72,21 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 <code>&lt;select&gt;</code> - Dropdown Menu<br>
 <code>&lt;button&gt;</code> - Button<br>
 
+<h2>Multimedia</h2><br>
+<code>&lt;video&gt;</code> - Video Element<br>
+<code>&lt;audio&gt;</code> - Audio Element<br>
+
+<h2>Semantic Elements</h2><br>
+<code>&lt;header&gt;</code> - Header Section<br>
+<code>&lt;nav&gt;</code> - Navigation Section<br>
+<code>&lt;main&gt;</code> - Main Content Section<br>
+<code>&lt;section&gt;</code> - Sectioning Element<br>
+<code>&lt;article&gt;</code> - Article Element<br>
+<code>&lt;aside&gt;</code> - Sidebar Element<br>
+<code>&lt;footer&gt;</code> - Footer Section<br>
+
+<h2><i>These are just some of the many HTML elements available. Each
+element has its own Attributes and usage guidelines</i></h2><br>
 
 
 

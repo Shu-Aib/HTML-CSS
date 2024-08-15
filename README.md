@@ -108,7 +108,7 @@ clarify the role of each in building web pages.<br>
 
 
 <h1>Basic Syntax</h1>
-<h2>css is made up of <i><strong>selectors</strong></i> and <i><strong>declarations</strong></i>.</h2><br>
+css is made up of <i><strong>selectors</strong></i> and <i><strong>declarations</strong></i>.<br>
 Heres an example:
 <pre>
 p {                            

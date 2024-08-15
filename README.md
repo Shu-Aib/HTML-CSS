@@ -81,7 +81,7 @@ element has its own Attributes and usage guidelines</i></h2><br>
 ‣ The actual markup used to define an element.<br>
 ‣ Consists of angle brackets(<code>&lt;</code> and <code>&gt;</code>) surrounding the element name.<br>
 ‣ Come in pairs:<br>
-.    -Opening tag (<code>&lt;tag&gt;</code>) and closing tag (<code>&lt;/tag&gt;</code><br>
+.    -Opening tag (<code>&lt;tag&gt;</code>) and closing tag (<code>&lt;/tag&gt;</code>)<br>
 ‣
 
 

@@ -184,8 +184,7 @@ Here’s a simple example that combines these concepts:
     &lt;p id="intro"&gt;Welcome to CSS basics.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-&lt;/pre&gt;</code>
-</pre>
+</pre></code>
 
 And the styles.css file:
 <pre>

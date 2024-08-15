@@ -20,9 +20,9 @@ HTML Lists
     <li>in another bowl, mix the rest</li>
 </ol>
 
-{dt} tag, stands for definition term
-{dd} tag, stands for definition description
-{dl} tag, represents definition lists
+<code>&lt;dt&gt;</code> tag, stands for definition term<br>
+<code>&lt;dd&gt;</code> tag, stands for definition description<br>
+<code>&lt;dl&gt;</code> tag, represents definition lists<br>
 The tags are simply placed side by side simply because thats how a definition list is structured
 In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.
 

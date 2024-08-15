@@ -201,7 +201,7 @@ And the styles.css file:
 </pre>
 
 This example sets the color of the header to blue and centers it, <br>
-while the paragraph with the /*ID intro*/ is styled with green text and a font size of 18px.<br>
+while the paragraph with the *ID intro* is styled with green text and a font size of 18px.<br>
 
 
 

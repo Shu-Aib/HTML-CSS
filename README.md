@@ -29,7 +29,7 @@ In summary, we now have three types of lists in HTML: unordered lists, ordered l
 HTML  (Hyper text Markup Language) elements are the building blocks of web pages.
 
 <h1>Structural quotes</h1>
-<Code>&lt<;html&gt;</code> - Root element
+<Code>&lt;html&gt;</code> - Root element
     
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>

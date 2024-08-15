@@ -1,7 +1,7 @@
 # HTML-CSS
 
 <h1><strong>NOTES</strong></h1>
-<pre>
+
 <h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1><br>
 
 <h2>Structural quotes</h2><br>
@@ -65,7 +65,7 @@
 element has its own Attributes and usage guidelines</i></h2><br>
 
 <h2><i>HTML Elements and tags are often used interchangeably, but theres a subtle difference</i></h2><br>
-
+<pre>
 <h2>Html Elements</h2>
 ‣ Represents a structure or a component on a webpage.<br>
 ‣ Consists of a start tag, content, and an end tag.<br>
@@ -87,7 +87,7 @@ Examples:<br>
 -    -<code>&lt;p&gt;</code><br>
 -    -<code>&lt;/p&gt;</code><br>
 -    -<code>&lt;img src="image.jpg"&gt;</code><br>
-
+</pre>
 <h2>Key Differences</h2>
 ‣ Elements represents the structure, while tags are the markup.<br>
 ‣ Elements have content, attributes, and child elements, while tags surround the content.<br>
@@ -110,37 +110,37 @@ clarify the role of each in building web pages.<br>
 <h1>Basic Syntax</h1>
 <h2>css is made up of <i><strong>selectors</strong></i> and <i><strong>declarations</strong></i>.</h2><br>
 Heres an example:
-p {                            <br>
-    color: red;                <br>
-    font-size: 20px;           <br>
-}                              <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<pre>
+p {                            
+    color: red;                
+    font-size: 20px;           
+}                              
 </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2>HTML Lists</h2>

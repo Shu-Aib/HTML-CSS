@@ -120,7 +120,7 @@ p {
 ‣ <strong>Selector</strong>: p (This targets all <code>&lt;p&gt; elements) <br>
 ‣ <strong>Declarations</strong>: inside the curly braces {}, you have properties and values.<br>
 <pre>    ‣ color: red; (This sets the text color to red) <br>
-         ‣ font-size: 20px; (This sets the font size to 20 pixels)
+         ‣ font-size: 20px; (This sets the font size to 20 pixels) </pre><br>
 
 
 

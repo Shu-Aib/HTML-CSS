@@ -72,19 +72,19 @@ element has its own Attributes and usage guidelines</i></h2><br>
 ‣ Define the meaning and purpose of the content.<br>
 ‣ Can have attributes, child elements, and text content.<br>
 ‣ Examples:<br>
-.    -<code>&lt;p&gt;</code><br>
-.    -<code>&lt;img&gt;</code><br>
-.    -<code>&lt;ul&gt;</code><br>
-.    -<code>&lt;table&gt</code><br>
+.    .-<code>&lt;p&gt;</code><br>
+.    .-<code>&lt;img&gt;</code><br>
+.    .-<code>&lt;ul&gt;</code><br>
+.    .-<code>&lt;table&gt</code><br>
 
 <h2>HTML Tags</h2>
 ‣ The actual markup used to define an element.<br>
 ‣ Consists of angle brackets(<code>&lt;</code> and <code>&gt;</code>) surrounding the element name.<br>
 ‣ Come in pairs:<br>
-.    -Opening tag (<code>&lt;tag&gt;</code>) and closing tag (<code>&lt;/tag&gt;</code>)<br>
+.    .-Opening tag (<code>&lt;tag&gt;</code>) and closing tag (<code>&lt;/tag&gt;</code>)<br>
 ‣ Surround the content and apply the element's meaning.<br>
 Examples:<br>
-.    -<code>&lt;p&gt;</code>, <code>&lt;/p&gt;</code>, <code>&lt;img src="image.jpg"&gt;</code><br>
+.    .-<code>&lt;p&gt;</code>, <code>&lt;/p&gt;</code>, <code>&lt;img src="image.jpg"&gt;</code><br>
 
 
 

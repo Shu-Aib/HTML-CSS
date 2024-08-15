@@ -201,7 +201,7 @@ And the styles.css file:
 </pre>
 
 This example sets the color of the header to blue and centers it, <br>
-while the paragraph with the ID intro is styled with green text and a font size of 18px.<br>
+while the paragraph with the /*ID intro*/ is styled with green text and a font size of 18px.<br>
 
 
 
@@ -262,7 +262,7 @@ Security: Modern browsers automatically add HTTPS for security, but developers n
 We can include any element we want within the blockquote. The important thing is that
 elements should be nested within each other in a way that makes sense. 
 
--    <h4>Example</h4>
+-    <h3>Example</h3>
 
 <p>Jeremy Keith said <q> You could open an HTML document from back then in a browser today</q></p> 
 <p lang="Fr">Keith said <q> You could open an HTML document from back then in a browser today</q></p> 

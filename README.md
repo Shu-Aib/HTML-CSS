@@ -2,33 +2,6 @@
 
 <h1><strong>NOTES</strong></h1>
 
-
-HTML Lists
-<ul>
-    <li>flour</li> _____ [an <code>&lt;li&gt;</code> is an element, which represents a list of items]
-    <li>suger</li>
-    <li>baking powder</li>
-    <li>salt</li>
-</ul>
-
-[after using <code>&lt;ul&gt;</code> for the list  of items we use <code>&lt;ol&gt;</code>(ordered list) to keep the items in a specific order]
-
-<ol>
-    <li>in a bowl, mix all the dry ingredients</li>
-    <li>in another bowl, mix the rest</li>
-</ol>
-
-<code>&lt;dt&gt;</code> tag, stands for definition term<br>
-<code>&lt;dd&gt;</code> tag, stands for definition description<br>
-<code>&lt;dl&gt;</code> tag, represents definition lists<br>
-The tags are simply placed side by side simply because thats how a definition list is structured
-In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.<br>
-
-
-
-
-
-
 <h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1><br>
 
 <h2>Structural quotes</h2><br>
@@ -96,6 +69,26 @@ element has its own Attributes and usage guidelines</i></h2><br>
 
 
 
+HTML Lists
+<ul>
+    <li>flour</li> _____ [an <code>&lt;li&gt;</code> is an element, which represents a list of items]
+    <li>suger</li>
+    <li>baking powder</li>
+    <li>salt</li>
+</ul>
+
+[after using <code>&lt;ul&gt;</code> for the list  of items we use <code>&lt;ol&gt;</code>(ordered list) to keep the items in a specific order]
+
+<ol>
+    <li>in a bowl, mix all the dry ingredients</li>
+    <li>in another bowl, mix the rest</li>
+</ol>
+
+<code>&lt;dt&gt;</code> tag, stands for definition term<br>
+<code>&lt;dd&gt;</code> tag, stands for definition description<br>
+<code>&lt;dl&gt;</code> tag, represents definition lists<br>
+The tags are simply placed side by side simply because thats how a definition list is structured
+In summary, we now have three types of lists in HTML: unordered lists, ordered lists, and definition lists.<br>
                   
 <h2>HTML QUOTES</h2>
 To attribute a quote we use <code>&lt;<em>cite</em>&gt;</code>

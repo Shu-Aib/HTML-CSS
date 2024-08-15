@@ -1,7 +1,7 @@
 # HTML-CSS
 
 <h1><strong>NOTES</strong></h1>
-
+<pre>
 <h1>HTML  (Hyper text Markup Language) elements are the building blocks of web pages.</h1><br>
 
 <h2>Structural quotes</h2><br>
@@ -140,7 +140,7 @@ p {                            <br>
 
 
 
-
+</pre>
 
 
 <h2>HTML Lists</h2>

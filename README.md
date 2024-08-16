@@ -487,4 +487,12 @@ Line-Height:1.5;
 </html>
 ![image](https://github.com/user-attachments/assets/0d3c2d35-0b8c-4bc9-9878-2776ed7a45ea)
 https://youtu.be/YOb67OKw62s?si=vhVRI-RtIRywNI3f
+.footer{
+    margin-top: 150px;
+    width: 100%;
+    padding: 100px 15%;
+    background: #333;
+    color:aquamarine;
+    display: flex;
+}
 

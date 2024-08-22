@@ -491,6 +491,93 @@ https://youtu.be/YOb67OKw62s?si=vhVRI-RtIRywNI3f
     margin-top: 150px;
     width: 100%;
     padding: 100px 15%;
+
+
+    [Footer]
+    <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Footer</title>
+    <style type="text/css">
+     *{
+        text-decoration: none;
+    }
+    .navbar{
+        background-color: #0A6000; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding-left: 15px;
+    }
+    .logo a{
+        font-size: 30px; font-weight: 600; color: rgb(27, 255, 6);
+    }
+    li{
+        list-style: none; display: inline-block;
+    }
+    li a{
+        color: #; font-size: 13px; font-weight: 100; margin-bottom: 10px;
+    }
+</style>
+  </head>
+  <body>
+    <footer class="footer"></footer>
+    <footer class="footer">
+      <u><div class="head"><a href="#">Sign Up To ReEcoWear</a></div></u>
+      <div class="container">
+        <div class="row">
+          <div class="footer-col">
+            <u><h4>Get To Know Us</h4></u>
+            <ul>
+              <li><a href="http://127.0.0.1:5501/about.html">About ReEcoWear</a></li><br>
+              <li><a href="#">Save Earth</a></li><br>
+              <li><a href="#">Community Events</a></li><br>
+              <li><a href="#">Mission</a></li><br>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <u><h4>ReEcoWear</h4></u>
+            <ul>
+                <li><a href="#">Shopping</a></li><br>
+                <li><a href="#">New Arrivals</a></li><br>
+                <li><a href="#">Accessories</a></li><br>
+                <li><a href="#">Sign Up</a></li><br>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <u><h4>Refund & Return</h4></u>
+            <ul>
+                <li><a href="#">Order Status</a></li><br>
+                <li><a href="#">Returns</a></li><br>
+                <li><a href="#">Payment Options</a></li><br>
+                <li><a href="#">Shipping & Delivery</a></li><br>
+            </ul>
+        </div>
+        <class="footer-col">
+            <u><h4>Menu</h4></u>
+            <ul>
+                <li><a href="#">Men</a></li><br>
+                <li><a href="#">Women</a></li><br>
+                <li><a href="#">Kids</a></li><br>
+                <li><a href="#">Accessories</a></li><br>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <u><h4>Contact Us</h4></u>
+            <ul>
+                <li><p>Tel:<a href="#">+27 123 456 789</a></p></li><br>
+                <li><p>Email:<a href="#">ReEcoWear@gmail.com</a></p></li><br>
+                <li>97 Durham Avenue <br>
+                    Salt River <br>
+                    Capetown <br>
+                    7925
+                </li>
+                
+            </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
+
     background: #333;
     color:aquamarine;
     display: flex;

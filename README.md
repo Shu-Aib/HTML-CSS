@@ -493,35 +493,39 @@ https://youtu.be/YOb67OKw62s?si=vhVRI-RtIRywNI3f
     padding: 100px 15%;
 
 
-    [Footer]
+    <h1>[Footer]</h1>
     <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Footer</title>
-    <style type="text/css">
-     *{
-        text-decoration: none;
-    }
-    .navbar{
-        background-color: #0A6000; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding-left: 15px;
-    }
-    .logo a{
-        font-size: 30px; font-weight: 600; color: rgb(27, 255, 6);
-    }
-    li{
-        list-style: none; display: inline-block;
-    }
-    li a{
-        color: #; font-size: 13px; font-weight: 100; margin-bottom: 10px;
-    }
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .fa {
+          padding: 20px;
+          font-size: 30px;
+          width: 50px;
+          text-align: center;
+          text-decoration: none;
+          margin: 5px 2px;
+        }
+        
+        .fa:hover {
+            opacity: 0.7;
+        }
+        .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
 </style>
+
   </head>
   <body>
     <footer class="footer"></footer>
     <footer class="footer">
-      <u><div class="head"><a href="#">Sign Up To ReEcoWear</a></div></u>
+      <u><div class="head"><a href="login.html">Log In/Sign Up To ReEcoWear:</a></div></u>
       <div class="container">
         <div class="row">
           <div class="footer-col">
@@ -537,9 +541,8 @@ https://youtu.be/YOb67OKw62s?si=vhVRI-RtIRywNI3f
             <u><h4>ReEcoWear</h4></u>
             <ul>
                 <li><a href="#">Shopping</a></li><br>
-                <li><a href="#">New Arrivals</a></li><br>
-                <li><a href="#">Accessories</a></li><br>
-                <li><a href="#">Sign Up</a></li><br>
+                <li><a href="#buy-section">New Arrivals</a></li><br>
+                <li><a href="shopping/accessories.html">Accessories</a></li><br>
             </ul>
         </div>
         <div class="footer-col">
@@ -554,29 +557,47 @@ https://youtu.be/YOb67OKw62s?si=vhVRI-RtIRywNI3f
         <class="footer-col">
             <u><h4>Menu</h4></u>
             <ul>
-                <li><a href="#">Men</a></li><br>
-                <li><a href="#">Women</a></li><br>
-                <li><a href="#">Kids</a></li><br>
-                <li><a href="#">Accessories</a></li><br>
+                <li><a href="shopping/men.html">Men</a></li><br>
+                <li><a href="shopping/women.html">Women</a></li><br>
+                <li><a href="shopping/kids.html">Kids</a></li><br>
+                <li><a href="shopping/kids.html">Accessories</a></li><br>
             </ul>
         </div>
+        
         <div class="footer-col">
             <u><h4>Contact Us</h4></u>
             <ul>
-                <li><p>Tel:<a href="#">+27 123 456 789</a></p></li><br>
-                <li><p>Email:<a href="#">ReEcoWear@gmail.com</a></p></li><br>
-                <li>97 Durham Avenue <br>
-                    Salt River <br>
-                    Capetown <br>
-                    7925
+                <li><p>Tel:<a href="tel:+27123456789">+27 123 456 789</a></p></li><br>
+                <li><p>Email:<a href="mailto:ReEcoWear@gmail.com">ReEcoWear@gmail.com</a></p></li><br>
+                <li><p><a href="//maps.google.com/?q=97 Durham Avenue, Salt River, Capetown, 7925">
+                   97 Durham Avenue 
+                    Salt River 
+                    Capetown 
+                    7925</a></p>
                 </li>
-                
+        <div class="footer-col">
+            <h4>Follow Us</h4>
+            <div class="Social Links">
+                <a
+                 href="https://www.facebook.com"
+                 class="fa fa-facebook"></a>
+                 <a
+                 href="https://www.twitter.com" class="fa fa-twitter"></a>
+                 <a
+                  href="https://www.instagram.com" class="fa fa-instagram"></a>
+                  <a
+                  href="https://www.WhatsApp.com" class="fa fa-whatsapp"></a>
+                  <a 
+                  href="https://www.fa-linkedin.com" class="fa fa-linkedin"></a>
+            </div>
+        </div>       
             </ul>
         </div>
       </div>
     </footer>
   </body>
 </html>
+
 
     background: #333;
     color:aquamarine;

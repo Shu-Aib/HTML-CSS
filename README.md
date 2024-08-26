@@ -18,8 +18,8 @@
 
 <h2>Text Elements</h2><br>
 <code>&lt;p&gt;</code> - Paragraph<br>
-<code>&lt;span&gt;</code> - Inline Text Container<br>
-<code>&lt;div&gt;</code> - Block Level Container<br>
+<code>&lt;span&gt;</code> - Inline Text Container. The &lt;span&gt; tag in HTML is an inline container used to mark up a part of a text or a part of a document.<br>
+<code>&lt;div&gt;</code> - Block Level Container. The &lt;div&gt; tag is used to group a heading and a paragraph together.<br>
 <code>&lt;strong&gt;</code> - Bold Text<br>
 <code>&lt;em&gt;</code> - Emphasized Text<br>
 <code>&lt;u&gt;</code> - Underline Text<br>

@@ -25,15 +25,15 @@
 <code>&lt;u&gt;</code> - Underline Text<br>
 
 <h2>Links</h2><br>
-<code>&lt;a&gt;</code> - Hyperlink<br>
+<code>&lt;a&gt;</code> - Hyperlink. The <a> tag in HTML is used to create hyperlinks, which are clickable links that navigate the user to another webpage, file, or location within the same page.<br>
 
 <h2>Images</h2><br>
 <code>&lt;img&gt;</code> - Image Element<br>
 
 <h2>Lists</h2><br>
-<code>&lt;ul&gt;</code> - Unordered Lists<br>
-<code>&lt;ol&gt;</code> - Ordered Lists<br>
-<code>&lt;li&gt;</code> - List Item<br>
+<code>&lt;ul&gt;</code> - Unordered Lists. Creates a list of items with no specific order. Items are typically displayed with bullet points.<br>
+<code>&lt;ol&gt;</code> - Ordered Lists. Creates a list of items with a specific order. Items are typically displayed with numbers or letters.<br>
+<code>&lt;li&gt;</code> - List Item. Represents an individual item within a list. Can be used inside both <ul> and <ol> tags.<br>
 
 <h2>Tables</h2><br>
 <code>&lt;table&gt;</code> - Table Element<br>
